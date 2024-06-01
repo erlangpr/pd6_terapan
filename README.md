@@ -1,1 +1,1 @@
-# pd6_terapan
+# Penambangan Data peertemuan 6
